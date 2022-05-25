@@ -1,0 +1,3 @@
+456	P124	2022-01-01	Shanghai	NYC	1000	35
+741	P124	2022-02-04	Tokyo	Osaka	10	34
+123 	P62 	2022-01-02 	Wuxi 	Beijing 	1000 	33
